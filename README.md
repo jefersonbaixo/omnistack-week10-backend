@@ -5,6 +5,10 @@ It's a backend of an simple application that find Devs near to you.
 
 ### .env configuration
 Here you configure you local environment. 
+
+There is an example in .env.example.
+You just need to edit this file and rename it to .env
+
 This project was made to work with MongoDB Atlas.
 You can learn more at:  https://www.mongodb.com/cloud/atlas
 
